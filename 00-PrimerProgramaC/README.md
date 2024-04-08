@@ -1,0 +1,2 @@
+# TP0: primeros pasos en **Git, Github, compilador, IDE**.
+## En este directorio iré cargando los archivos correspondientes al TP0, que consiste en crear un pequeño programa en C y subirlo a Github. En este caso, armaré un programa que imprima "Hola, bienvenido!".
